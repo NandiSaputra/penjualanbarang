@@ -1,3 +1,3 @@
-# penjualanbarang
+# PENJUALAN BARANG
 Penjualan barang di toko x
-menggunakan codeigneter 3
+menggunakan codeigneter 3 
